@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+.env
+.env*.local
+.vercel
+
+# logs
+npm-debug.log*
+yarn-error.log*
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# all env files
+.env*
+!.env.example
