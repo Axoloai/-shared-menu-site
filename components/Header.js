@@ -8,6 +8,7 @@ const links = [
   { href: "/", label: "Home" },
   { href: "/menu", label: "Menu" },
   { href: "/about", label: "About" },
+  { href: "https://www.axolo.ai/login/client", label: "Team Portal" },
   { href: "/contact", label: "Contact" },
 ];
 
