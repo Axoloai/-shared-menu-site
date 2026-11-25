@@ -7,6 +7,7 @@ import { useState } from "react";
 const links = [
   { href: "/", label: "Home" },
   { href: "/menu", label: "Menu" },
+  { href: "https://www.axolo.ai/login/client", label: "Team Portal" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
 ];
