@@ -15,6 +15,7 @@ export default function Footer() {
           <h4>Visit</h4>
           <p className="muted">42 Market Street, Sector 17</p>
           <p className="muted">+91 98765 43210</p>
+          <p className="muted"><a href="https://www.axolo.ai/login/client" style={{ color: "inherit" }}>Team Portal</a></p>
         </div>
       </div>
       <p className="container copyright">
